@@ -37,12 +37,13 @@ export default function About() {
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6jvFhTNWIrFmlgyrEtuPi3-0Bd4XEDl0QzqTkBdXGA&s" className='img-fluid' alt="" />
                         
                     </div>
-                    <div className='col-10'>
-                        
-                        <h4> Easy Text Analysis</h4>
-                        <p>Analyze your text with options like word count, character count, and more.</p>
-                        
-                    </div>
+                   <div className='col-10'>
+    <h4>TextUtils – Smart Text Tools</h4>
+    <p>
+        Quickly analyze and transform your text with useful tools for
+        word count, character count, reading time, and more.
+    </p>
+</div>
                     
                  </div>
                   <div className='row p-3 '>
@@ -51,12 +52,10 @@ export default function About() {
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6jvFhTNWIrFmlgyrEtuPi3-0Bd4XEDl0QzqTkBdXGA&s" className='img-fluid' alt="" />
                         
                     </div>
-                    <div className='col-10'>
-                        
-                        <h4> Easy Text Analysis</h4>
-                        <p>Analyze your text with options like word count, character count, and more.</p>
-                        
-                    </div>
+                   <div className='col-10'>
+    <h4>Smart Text Processing</h4>
+    <p>Use TextUtils to quickly analyze, format, and transform your text with simple and useful tools.</p>
+</div>
                     
                  </div>
                  
